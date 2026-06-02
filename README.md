@@ -81,9 +81,9 @@
 </a>
 
 <a href="https://www.linkedin.com/in/mohamad-kabir?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-<img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0<a href="https://t.me/your-telegram">
-<img src="https://img.shields.io/badge/Telegram-0F172A?style=for-the-badge&logo=telegram&logoColor=26A5E4"/>
+<img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
+
 
 <a href="https://www.instagram.com/mohamad_kabir82">
 <img src="https://img.shields.io/badge/Instagram-0F172A?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
